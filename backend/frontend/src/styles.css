@@ -1,0 +1,109 @@
+body {
+  text-align: center;
+  background-color: rgb(31, 100, 100);
+  font-family: "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
+  height: 200vh;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: medium;
+}
+
+hr {
+  color: white;
+  height: 32px;
+  width: 35vw;
+}
+/*navbar css here*/
+.navbar {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  z-index: 3;
+  top: 0;
+  width: 100%;
+  background-color: rgb(17, 13, 13);
+}
+
+.navbar-brand {
+  color: gold;
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  font-variant: small-caps;
+}
+
+.navbar-nav {
+  padding: 0.5rem;
+}
+.far fa-heart{
+   background-color: red;
+   font-weight: bolder;
+}
+
+.list-group {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  font-variant: small-caps;
+}
+
+.nav-item a {
+  padding: 0 1rem;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: gold;
+}
+
+.nav-item a:hover {
+  color: white;
+}
+
+main {
+  margin-top: 20px;
+}
+/*search CSS*/
+.search-form {
+  padding: 10rem;
+}
+/*cards CSS*/
+.display-card-body {
+  width: 18rem;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 1rem;
+  background-color: #f9f7f7;
+}
+
+.card-img {
+  width: 90px;
+  padding: 1rem 1rem 0rem 1rem;
+}
+
+.card-type {
+  text-transform: capitalize;
+  font-size: small;
+}
+
+.card-links {
+  text-decoration: none;
+  color: rgb(109, 109, 109);
+}
+
+.card-links:hover {
+  color: blue;
+}
+
+.fav-items-div {
+  display: inline-block;
+  padding: 2rem;
+  margin: 5rem 3rem;
+  background-color: grey;
+}
+
+.footer {
+  color: gold;
+  font-size: 15px;
+}
