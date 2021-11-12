@@ -7,7 +7,7 @@ iTunes Search App
 * This is a full stack application built using react.js and express.js for front and backend respectively. 
    A user can enter any search term and the application will search and return relevant results using the iTunes API.
 
-### How to use the app
+ ### Check out on how to use the app
 
  ## Express Backend (localhost:3001) Setup
 
