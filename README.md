@@ -32,3 +32,12 @@
   * Helmet: Used to secure our application
 
   * Check the package.json file to see these included dev dependences 
+
+
+ ## Contact
+
+  * [Email](sitholejosiah7@gmail.com)
+  
+  * [Phone number](+27603191619)
+
+  * [LinkedIn](https://www.linkedin.com/in/josiah-sithole-40480b222/)
