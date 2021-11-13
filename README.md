@@ -3,7 +3,7 @@
 * This is a full stack application built using react.js and express.js for front and backend respectively. 
    A user can enter any search term and the application will search and return relevant results using the iTunes API.
 
-* [Screenshot](https://github.com/Josiah-Sithole/iTunes-Search-App/blob/main/screenshot/itunesSearchApp.PNG)
+ ![Screenshot](https://github.com/Josiah-Sithole/iTunes-Search-App/blob/main/screenshot/itunesSearchApp.PNG)
 
  ### Check out on how to use the app
 
